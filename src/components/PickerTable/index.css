@@ -1,0 +1,13 @@
+.color-picker-buttons-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem auto;
+  width: fit-content;
+  max-width: 10rem;
+}
+
+.color-picker-button {
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
